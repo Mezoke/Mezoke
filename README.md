@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Mezoke
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning HTML, CSS, Javascript, Git, PhP
+- Looking for a job btw :)
 
 <!---
 Mezoke/Mezoke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
