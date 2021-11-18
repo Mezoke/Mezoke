@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Mezoke
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning HTML, CSS, Javascript, Git, PhP
+- Stack: HTML, CSS, Javascript
+- 🌱 I’m currently learning: AJAX, PhP
 - Looking for a job btw :)
 
 <!---
